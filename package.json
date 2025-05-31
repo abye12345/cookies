@@ -1,0 +1,12 @@
+{
+  "name": "cookies-website",
+  "version": "1.0.0",
+  "description": "Cookies website",
+  "main": "cookies.html",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
