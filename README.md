@@ -67,3 +67,8 @@ This project is open source and available under the MIT License.
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
+# Cookies
+
+This project is hosted on GitHub Pages:  
+[View the live site](https://abye12345.github.io/cookies/)
